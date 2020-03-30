@@ -7,10 +7,11 @@ This repository contains multiple DL examples to present a selection of differen
 - [A DL case study: Painters Challenge](DL_Painters.pdf)
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
 - [What does a convolutional layer do?](DL_VisConvFilters.ipynb)
-- [More comlpex architectures](DL_Keras_SiameseNet_MNIST.ipynb)
+- [A few more complex architectures](DLBasics_TransferLearning.ipynb , DL_Keras_SiameseNet_MNIST.ipynb)
 - [Homework Assignment #5](To be announced on Wed)
 
 All notebooks are in Colab:
  https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
+ 
 As well as the data:
  https://drive.google.com/drive/folders/15dLkXRSt1iFGsBDc2zw_w3QkMhjXE2OE?usp=sharing
