@@ -1,6 +1,6 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week1: Overview of satellite imaging
+## Week9: Deep Learning - Part2
 
 This repository contains:
 
