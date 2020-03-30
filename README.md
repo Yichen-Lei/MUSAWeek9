@@ -2,7 +2,7 @@
 
 ## Week9: Deep Learning - Part2
 
-This repository contains multiple DL examples that present different components and variations of DL applications. We will let the intuition guide us in each example, aiming to have a "high-level" understanding of the general concepts.
+This repository contains multiple DL examples to present a selection of different components and variations of DL applications. We will let the intuition guide us in each example, aiming to have a "high-level" understanding of the general concepts.
 
 - [A DL case study: Painters Challenge](DL_Painters.pdf)
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
