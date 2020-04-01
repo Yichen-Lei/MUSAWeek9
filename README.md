@@ -9,7 +9,7 @@ This repository contains multiple DL examples to present a selection of differen
 - [What does a convolutional layer do?](DL_VisConvFilters.ipynb)
 - [Using pre-trained models](DLBasics_TransferLearning.ipynb)
 - [An example for a more complex architecture using Keras](DL_Keras_SiameseNet_MNIST.ipynb)
-- [Homework Assignment #5](To be announced on Wed)
+- [Homework Assignment #5](hw5.ipynb)
 
 All notebooks are in Colab:
  https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
